@@ -1,0 +1,168 @@
+body{
+	background:radial-gradient(#111111, #f1f1, #e5e235);
+}
+.card{
+	width:20rem;
+	background: radial-gradient(#ffffff, #f1f1, #e5e235);
+	margin-bottom:30px;
+}
+.row{
+	background: radial-gradient(#ffffff, #e5e255);
+	margin-bottom:60px;
+}
+.card-body{
+	padding:3rem 0!important;
+}
+
+
+.card-text{
+	font-size: .9rem;
+	padding:0.4rem 1.9rem;
+}
+
+.card:hover{
+	box-shadow: 5px 10px 20px 1px rgba(0,0,0,0.253)!important;
+}
+
+.container-fluid .row{
+	padding-top:6rem;
+}
+.overflow{
+	overflow:hidden;
+}
+.card-img-top{
+	transform:scale(1);
+	transition:transform 0.5s ease;
+}
+.card-img-top:hover{
+	transform:scale(1.8);
+}
+.btn{
+	text-align:left;
+}
+
+
+
+
+
+#mainContainer {
+  width: 200px;  
+  padding: 0px 5px 5px 5px;
+  border-radius: 5px;
+  font-family: arial;
+  line-height: 4px;
+  font-size: 14px;
+  margin: 10px auto;
+}
+textarea {
+  width:200px;
+  height:30px;
+  padding: 10px;
+  border: solid 1px grey;
+  background-color:#eef9bf ;
+}
+
+.button {
+	margin-top:5px;
+	border-radius:7%;
+  background-color: grey;
+ 
+  font-weight: bold;
+  padding: 8px 10px;
+ color:white;
+  margin-right: 14px;
+}
+.button:focus{
+	outline:none;
+}
+#c0{
+	padding-right:10px;
+	color:black;
+	font-weight:bold;
+	
+}
+#c1{
+	padding-right:10px;
+	color:black;
+	font-weight:bold;
+	
+}
+#c2{
+	padding-right:10px;
+	color:black;
+	font-weight:bold;
+	
+}
+
+
+#display-data0{
+margin-top:5px;
+padding-top:12px;
+background: grey;
+color:white;
+width:200px;
+height:30px;
+
+
+}
+#display-data1{
+margin-top:5px;
+padding-top:12px;
+background: grey;
+color:white;
+width:200px;
+height:30px;
+
+
+}
+#display-data2{
+margin-top:5px;
+padding-top:12px;
+background: grey;
+width:200px;
+color:white;
+height:30px;
+
+}
+#like0{
+  border-radius:20%;
+  background-color: grey;
+ 
+  font-weight: bold;
+  padding: 4px 5px;
+  color: #ffffff;
+  margin-right: 14px;
+}
+#like0:focus{
+	outline:none;
+}
+#like1:focus{
+	outline:none;
+}
+#like2:focus{
+	outline:none;
+}
+#like1{
+  border-radius:20%;
+  background-color: grey;
+
+  font-weight: bold;
+  padding: 4px 5px;
+  color: #ffffff;
+  margin-right: 14px;
+}
+#h{
+	padding-top:40px;
+	margin-bottom: 0px;
+	font-size:60px;
+	font-family: ariel;
+}
+#like2{
+  border-radius:20%;
+  background-color: grey;
+
+  font-weight: bold;
+  padding: 4px 5px;
+  color: #ffffff;
+  margin-right: 14px;
+}
